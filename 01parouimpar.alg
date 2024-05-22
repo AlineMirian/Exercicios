@@ -9,4 +9,5 @@ inicio
     Senao
        EscrevaL ("O numero ", N, "e IMPAR")
     FimSe
+    Digite um número qualquer:
 fimalgoritmo
